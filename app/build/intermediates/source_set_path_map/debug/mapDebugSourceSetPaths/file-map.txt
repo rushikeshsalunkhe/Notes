@@ -1,56 +1,60 @@
-com.vr.notes.app-navigation-common-ktx-2.8.4-0 C:\Users\welcome\.gradle\caches\8.9\transforms\03fd0db2ebeafb528fe46860d6adb6e7\transformed\navigation-common-ktx-2.8.4\res
-com.vr.notes.app-navigation-runtime-ktx-2.8.4-1 C:\Users\welcome\.gradle\caches\8.9\transforms\0b5fb7b908bde4d758026c1504dfde48\transformed\navigation-runtime-ktx-2.8.4\res
-com.vr.notes.app-core-ktx-1.15.0-2 C:\Users\welcome\.gradle\caches\8.9\transforms\0f6cbb9743d3c46af233782a95867c77\transformed\core-ktx-1.15.0\res
-com.vr.notes.app-ui-graphics-release-3 C:\Users\welcome\.gradle\caches\8.9\transforms\0f7e3e1d179c7574c5ad7707b5ee99bb\transformed\ui-graphics-release\res
-com.vr.notes.app-lifecycle-livedata-core-2.8.7-4 C:\Users\welcome\.gradle\caches\8.9\transforms\1edf88eaada9f7b78ab0e53cfca28f04\transformed\lifecycle-livedata-core-2.8.7\res
-com.vr.notes.app-customview-poolingcontainer-1.0.0-5 C:\Users\welcome\.gradle\caches\8.9\transforms\241314349b46a0a94b5dd190edbf6211\transformed\customview-poolingcontainer-1.0.0\res
-com.vr.notes.app-lifecycle-runtime-release-6 C:\Users\welcome\.gradle\caches\8.9\transforms\259a1858ba0ce100d8f8b35314d74876\transformed\lifecycle-runtime-release\res
-com.vr.notes.app-lifecycle-viewmodel-release-7 C:\Users\welcome\.gradle\caches\8.9\transforms\26066bd6bf67160f92d6a3590e306cdb\transformed\lifecycle-viewmodel-release\res
-com.vr.notes.app-emoji2-1.3.0-8 C:\Users\welcome\.gradle\caches\8.9\transforms\2644112ad3cfc0dfc16d795240bae9c1\transformed\emoji2-1.3.0\res
-com.vr.notes.app-savedstate-ktx-1.2.1-9 C:\Users\welcome\.gradle\caches\8.9\transforms\271471e011682f70f18cb4d4afb0224f\transformed\savedstate-ktx-1.2.1\res
-com.vr.notes.app-tracing-1.2.0-10 C:\Users\welcome\.gradle\caches\8.9\transforms\295c659df3b547463ae2ca72dcaf39b8\transformed\tracing-1.2.0\res
-com.vr.notes.app-lifecycle-viewmodel-savedstate-2.8.7-11 C:\Users\welcome\.gradle\caches\8.9\transforms\2c851bf09ba08b876b8dab8bd0342db6\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
-com.vr.notes.app-foundation-layout-release-12 C:\Users\welcome\.gradle\caches\8.9\transforms\33707438e139dc784ae12be5e0cb5e45\transformed\foundation-layout-release\res
-com.vr.notes.app-ui-geometry-release-13 C:\Users\welcome\.gradle\caches\8.9\transforms\364eaa03aaa0a9e364737f4763ac1c5b\transformed\ui-geometry-release\res
-com.vr.notes.app-foundation-release-14 C:\Users\welcome\.gradle\caches\8.9\transforms\492acb12b6cdd1eb89025511098beac8\transformed\foundation-release\res
-com.vr.notes.app-navigation-runtime-2.8.4-15 C:\Users\welcome\.gradle\caches\8.9\transforms\4da1fba67e548dda5830abd78b53c4c0\transformed\navigation-runtime-2.8.4\res
-com.vr.notes.app-ui-text-release-16 C:\Users\welcome\.gradle\caches\8.9\transforms\50e1e59a4f5768e809508d9d8b0d68dc\transformed\ui-text-release\res
-com.vr.notes.app-navigation-compose-2.8.4-17 C:\Users\welcome\.gradle\caches\8.9\transforms\514645cc1145f590199ea35abc158f8d\transformed\navigation-compose-2.8.4\res
-com.vr.notes.app-navigation-common-2.8.4-18 C:\Users\welcome\.gradle\caches\8.9\transforms\523a4bda45ba86f1e471c9471b860c01\transformed\navigation-common-2.8.4\res
-com.vr.notes.app-core-runtime-2.2.0-19 C:\Users\welcome\.gradle\caches\8.9\transforms\5461ba647ebf0024da493fd1bb10164b\transformed\core-runtime-2.2.0\res
-com.vr.notes.app-graphics-path-1.0.1-20 C:\Users\welcome\.gradle\caches\8.9\transforms\5b012d02ab089a59d6acfa028e6e6cd9\transformed\graphics-path-1.0.1\res
-com.vr.notes.app-startup-runtime-1.1.1-21 C:\Users\welcome\.gradle\caches\8.9\transforms\5fefc079a4e6d1128fafba6d976ea023\transformed\startup-runtime-1.1.1\res
-com.vr.notes.app-material3-release-22 C:\Users\welcome\.gradle\caches\8.9\transforms\64cf486535fd81628353b6fbba5b0518\transformed\material3-release\res
-com.vr.notes.app-ui-tooling-release-23 C:\Users\welcome\.gradle\caches\8.9\transforms\668a5a67d572ae89b0e167e49307332c\transformed\ui-tooling-release\res
-com.vr.notes.app-ui-util-release-24 C:\Users\welcome\.gradle\caches\8.9\transforms\6726a5e4cce75e0d0c8ea7761d576213\transformed\ui-util-release\res
-com.vr.notes.app-runtime-saveable-release-25 C:\Users\welcome\.gradle\caches\8.9\transforms\76a401ec244656733274c7c37dacb50a\transformed\runtime-saveable-release\res
-com.vr.notes.app-ui-unit-release-26 C:\Users\welcome\.gradle\caches\8.9\transforms\7aeea85b9c885e1cc87dd5adf2934396\transformed\ui-unit-release\res
-com.vr.notes.app-lifecycle-runtime-compose-release-27 C:\Users\welcome\.gradle\caches\8.9\transforms\7f92290177f0259129b843a0ce3400b9\transformed\lifecycle-runtime-compose-release\res
-com.vr.notes.app-annotation-experimental-1.4.1-28 C:\Users\welcome\.gradle\caches\8.9\transforms\8b056644b7abe8dd8af5cd56a8918008\transformed\annotation-experimental-1.4.1\res
-com.vr.notes.app-lifecycle-viewmodel-ktx-2.8.7-29 C:\Users\welcome\.gradle\caches\8.9\transforms\8d39078a6a446f880752c2cbce3e210e\transformed\lifecycle-viewmodel-ktx-2.8.7\res
-com.vr.notes.app-runtime-release-30 C:\Users\welcome\.gradle\caches\8.9\transforms\8fdfba6ac1df7ed18592fe614207d717\transformed\runtime-release\res
-com.vr.notes.app-animation-core-release-31 C:\Users\welcome\.gradle\caches\8.9\transforms\93730ea7b73bce1fab158b7ac157973e\transformed\animation-core-release\res
-com.vr.notes.app-activity-1.9.3-32 C:\Users\welcome\.gradle\caches\8.9\transforms\971ff9294c44d7b9e91ecc1ab15ae692\transformed\activity-1.9.3\res
-com.vr.notes.app-ui-tooling-data-release-33 C:\Users\welcome\.gradle\caches\8.9\transforms\9fa22a2ef3c3498aecd5835b1cad117f\transformed\ui-tooling-data-release\res
-com.vr.notes.app-activity-compose-1.9.3-34 C:\Users\welcome\.gradle\caches\8.9\transforms\9ff7ee5e0d2e4e2c2eda36f23ab0feaa\transformed\activity-compose-1.9.3\res
-com.vr.notes.app-activity-ktx-1.9.3-35 C:\Users\welcome\.gradle\caches\8.9\transforms\a37e6dd9f22c175065bf318d5b145baa\transformed\activity-ktx-1.9.3\res
-com.vr.notes.app-lifecycle-process-2.8.7-36 C:\Users\welcome\.gradle\caches\8.9\transforms\a5ed42089ebe65e37184bc7541bf110d\transformed\lifecycle-process-2.8.7\res
-com.vr.notes.app-ui-test-manifest-1.7.5-37 C:\Users\welcome\.gradle\caches\8.9\transforms\ad11ad3812cd3755e99e025ff5a16a8f\transformed\ui-test-manifest-1.7.5\res
-com.vr.notes.app-core-1.15.0-38 C:\Users\welcome\.gradle\caches\8.9\transforms\b4b228b3a2e90f2b4cddc9567aac156a\transformed\core-1.15.0\res
-com.vr.notes.app-animation-release-39 C:\Users\welcome\.gradle\caches\8.9\transforms\b623f20751e20296bdeaeb1c6e52044a\transformed\animation-release\res
-com.vr.notes.app-lifecycle-viewmodel-compose-release-40 C:\Users\welcome\.gradle\caches\8.9\transforms\b99d4cef1a65a9674ae8912e783fccc7\transformed\lifecycle-viewmodel-compose-release\res
-com.vr.notes.app-material-ripple-release-41 C:\Users\welcome\.gradle\caches\8.9\transforms\d84eed46ae79d6887f187840a957fa1c\transformed\material-ripple-release\res
-com.vr.notes.app-lifecycle-runtime-ktx-release-42 C:\Users\welcome\.gradle\caches\8.9\transforms\dee3151d464c4f68b2e1136374018bd8\transformed\lifecycle-runtime-ktx-release\res
-com.vr.notes.app-profileinstaller-1.3.1-43 C:\Users\welcome\.gradle\caches\8.9\transforms\e5a08e32fa280e809abb1ca5dba10c1b\transformed\profileinstaller-1.3.1\res
-com.vr.notes.app-ui-release-44 C:\Users\welcome\.gradle\caches\8.9\transforms\ed3948fc45e3ad83e63f5cc8e95a461b\transformed\ui-release\res
-com.vr.notes.app-ui-tooling-preview-release-45 C:\Users\welcome\.gradle\caches\8.9\transforms\f2bcbb3b28ab9cd92698c40649b2cf91\transformed\ui-tooling-preview-release\res
-com.vr.notes.app-savedstate-1.2.1-46 C:\Users\welcome\.gradle\caches\8.9\transforms\f3b4280eafda81020fb38c3607888099\transformed\savedstate-1.2.1\res
-com.vr.notes.app-material-icons-core-release-47 C:\Users\welcome\.gradle\caches\8.9\transforms\f735b9cf19bd4f5036ec7883a7e2d402\transformed\material-icons-core-release\res
-com.vr.notes.app-material-release-48 C:\Users\welcome\.gradle\caches\8.9\transforms\fb166f621391e41218d4903a4a77bdab\transformed\material-release\res
-com.vr.notes.app-pngs-49 C:\Users\welcome\3D Objects\Android\Notes\app\build\generated\res\pngs\debug
-com.vr.notes.app-resValues-50 C:\Users\welcome\3D Objects\Android\Notes\app\build\generated\res\resValues\debug
-com.vr.notes.app-packageDebugResources-51 C:\Users\welcome\3D Objects\Android\Notes\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.vr.notes.app-packageDebugResources-52 C:\Users\welcome\3D Objects\Android\Notes\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.vr.notes.app-debug-53 C:\Users\welcome\3D Objects\Android\Notes\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.vr.notes.app-debug-54 C:\Users\welcome\3D Objects\Android\Notes\app\src\debug\res
-com.vr.notes.app-main-55 C:\Users\welcome\3D Objects\Android\Notes\app\src\main\res
+com.vr.notes.app-emoji2-1.3.0-0 C:\Users\welcome\.gradle\caches\8.9\transforms\0206d95cf91caaa6f57af9280bc32b8c\transformed\emoji2-1.3.0\res
+com.vr.notes.app-ui-graphics-release-1 C:\Users\welcome\.gradle\caches\8.9\transforms\0426ce21f311a95fc333599c4f451151\transformed\ui-graphics-release\res
+com.vr.notes.app-annotation-experimental-1.4.1-2 C:\Users\welcome\.gradle\caches\8.9\transforms\07e1a59f42da7e7395916edde8c408b9\transformed\annotation-experimental-1.4.1\res
+com.vr.notes.app-profileinstaller-1.3.1-3 C:\Users\welcome\.gradle\caches\8.9\transforms\138da10c4d015b7f6d19f1794bffcdf0\transformed\profileinstaller-1.3.1\res
+com.vr.notes.app-ui-tooling-preview-release-4 C:\Users\welcome\.gradle\caches\8.9\transforms\1721d70a88b6a7d8d1c74da538fc9a44\transformed\ui-tooling-preview-release\res
+com.vr.notes.app-lifecycle-runtime-compose-release-5 C:\Users\welcome\.gradle\caches\8.9\transforms\1d18e3234e761665e4eb870f5a07acdc\transformed\lifecycle-runtime-compose-release\res
+com.vr.notes.app-animation-release-6 C:\Users\welcome\.gradle\caches\8.9\transforms\246169ba6238a968bd083b702faf6f6b\transformed\animation-release\res
+com.vr.notes.app-startup-runtime-1.1.1-7 C:\Users\welcome\.gradle\caches\8.9\transforms\24c96a2f5525a9acca2eb9a4e66a6243\transformed\startup-runtime-1.1.1\res
+com.vr.notes.app-lifecycle-runtime-ktx-release-8 C:\Users\welcome\.gradle\caches\8.9\transforms\2aafe72e8d49368aa4964674be746ba6\transformed\lifecycle-runtime-ktx-release\res
+com.vr.notes.app-ui-tooling-release-9 C:\Users\welcome\.gradle\caches\8.9\transforms\2b96dac42aba5b9b975cca1e3b07ba08\transformed\ui-tooling-release\res
+com.vr.notes.app-navigation-runtime-2.8.4-10 C:\Users\welcome\.gradle\caches\8.9\transforms\30c6aec501747dd89907ff0ae3e3ab1c\transformed\navigation-runtime-2.8.4\res
+com.vr.notes.app-animation-core-release-11 C:\Users\welcome\.gradle\caches\8.9\transforms\32f7c7546eb1e685d4c29653eb487d43\transformed\animation-core-release\res
+com.vr.notes.app-room-runtime-2.6.1-12 C:\Users\welcome\.gradle\caches\8.9\transforms\339d701aed5a8a0c869c71aad1624864\transformed\room-runtime-2.6.1\res
+com.vr.notes.app-tracing-1.2.0-13 C:\Users\welcome\.gradle\caches\8.9\transforms\3931d00af8f71f5fe224ef2cd02ad8a3\transformed\tracing-1.2.0\res
+com.vr.notes.app-activity-compose-1.9.3-14 C:\Users\welcome\.gradle\caches\8.9\transforms\415ada27409928f2b799c6134b5d8e63\transformed\activity-compose-1.9.3\res
+com.vr.notes.app-foundation-release-15 C:\Users\welcome\.gradle\caches\8.9\transforms\471c447bcd47ca8f8392e269ac01137e\transformed\foundation-release\res
+com.vr.notes.app-sqlite-2.4.0-16 C:\Users\welcome\.gradle\caches\8.9\transforms\49403f024231c02e391b08a2530a1cc3\transformed\sqlite-2.4.0\res
+com.vr.notes.app-lifecycle-livedata-core-2.8.7-17 C:\Users\welcome\.gradle\caches\8.9\transforms\4ad53d6012d8f0b833cac70be8ba8ae8\transformed\lifecycle-livedata-core-2.8.7\res
+com.vr.notes.app-customview-poolingcontainer-1.0.0-18 C:\Users\welcome\.gradle\caches\8.9\transforms\4aeb52c5bcef2c9d9353e2a71b16de4f\transformed\customview-poolingcontainer-1.0.0\res
+com.vr.notes.app-room-ktx-2.6.1-19 C:\Users\welcome\.gradle\caches\8.9\transforms\5547a190c0c4a8c8088d2fb31a6d7740\transformed\room-ktx-2.6.1\res
+com.vr.notes.app-ui-text-release-20 C:\Users\welcome\.gradle\caches\8.9\transforms\561c1b72af9e7facafd1eca57d11ec43\transformed\ui-text-release\res
+com.vr.notes.app-activity-1.9.3-21 C:\Users\welcome\.gradle\caches\8.9\transforms\5f7bb338ef6ca7c88a97a7c8786ba606\transformed\activity-1.9.3\res
+com.vr.notes.app-lifecycle-runtime-release-22 C:\Users\welcome\.gradle\caches\8.9\transforms\60fe906240eebf0543b8c9e2c7550a1b\transformed\lifecycle-runtime-release\res
+com.vr.notes.app-runtime-saveable-release-23 C:\Users\welcome\.gradle\caches\8.9\transforms\639886d07e72c5204d3baaee9ff8ae5f\transformed\runtime-saveable-release\res
+com.vr.notes.app-core-ktx-1.15.0-24 C:\Users\welcome\.gradle\caches\8.9\transforms\64a0bbb36ecc7a67e0cc354ac32ad91d\transformed\core-ktx-1.15.0\res
+com.vr.notes.app-ui-unit-release-25 C:\Users\welcome\.gradle\caches\8.9\transforms\660ab4c93ca59e7569876b40f049cdb1\transformed\ui-unit-release\res
+com.vr.notes.app-lifecycle-viewmodel-ktx-2.8.7-26 C:\Users\welcome\.gradle\caches\8.9\transforms\67250f76c190a9531289ca4e72b71c42\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.vr.notes.app-ui-geometry-release-27 C:\Users\welcome\.gradle\caches\8.9\transforms\7a85fc854aa20184a3afbe4cf70068c0\transformed\ui-geometry-release\res
+com.vr.notes.app-material-icons-core-release-28 C:\Users\welcome\.gradle\caches\8.9\transforms\7a97e4c6e088cf8d93f9e9eaf3fed4a4\transformed\material-icons-core-release\res
+com.vr.notes.app-ui-release-29 C:\Users\welcome\.gradle\caches\8.9\transforms\7b879d336c2ae014574cdc60877de56f\transformed\ui-release\res
+com.vr.notes.app-lifecycle-viewmodel-savedstate-2.8.7-30 C:\Users\welcome\.gradle\caches\8.9\transforms\7d2127432f8c65a1aaf683df2b2a089c\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.vr.notes.app-navigation-runtime-ktx-2.8.4-31 C:\Users\welcome\.gradle\caches\8.9\transforms\7f42dd29d7ab528c37b56d1de7538da4\transformed\navigation-runtime-ktx-2.8.4\res
+com.vr.notes.app-core-1.15.0-32 C:\Users\welcome\.gradle\caches\8.9\transforms\8123f85c304bd1751bd65e97944787b3\transformed\core-1.15.0\res
+com.vr.notes.app-savedstate-ktx-1.2.1-33 C:\Users\welcome\.gradle\caches\8.9\transforms\8aad27d920b95a5dd8ac891bf239a30b\transformed\savedstate-ktx-1.2.1\res
+com.vr.notes.app-savedstate-1.2.1-34 C:\Users\welcome\.gradle\caches\8.9\transforms\8c5c23d6ba503b4072dc686ade95c0a7\transformed\savedstate-1.2.1\res
+com.vr.notes.app-material-release-35 C:\Users\welcome\.gradle\caches\8.9\transforms\91fcc622089edfd60bebc852908b8a11\transformed\material-release\res
+com.vr.notes.app-runtime-release-36 C:\Users\welcome\.gradle\caches\8.9\transforms\9dcbf952834f764ef068a1c8750c3aea\transformed\runtime-release\res
+com.vr.notes.app-core-runtime-2.2.0-37 C:\Users\welcome\.gradle\caches\8.9\transforms\9e2bee0252577867d8821d13bbe31637\transformed\core-runtime-2.2.0\res
+com.vr.notes.app-lifecycle-viewmodel-compose-release-38 C:\Users\welcome\.gradle\caches\8.9\transforms\a71aa2954f03eaeb89ca2b38fb51f408\transformed\lifecycle-viewmodel-compose-release\res
+com.vr.notes.app-lifecycle-process-2.8.7-39 C:\Users\welcome\.gradle\caches\8.9\transforms\a72a240c2fadce421540917cc5c55b49\transformed\lifecycle-process-2.8.7\res
+com.vr.notes.app-lifecycle-viewmodel-release-40 C:\Users\welcome\.gradle\caches\8.9\transforms\aa56ef1b46b5b88fafb611e20addb4a7\transformed\lifecycle-viewmodel-release\res
+com.vr.notes.app-navigation-compose-2.8.4-41 C:\Users\welcome\.gradle\caches\8.9\transforms\ac09a7146c496b54d831397d9935c3e8\transformed\navigation-compose-2.8.4\res
+com.vr.notes.app-ui-test-manifest-1.7.5-42 C:\Users\welcome\.gradle\caches\8.9\transforms\b3be5dc7dae6e21b9326e8bf25ed3e94\transformed\ui-test-manifest-1.7.5\res
+com.vr.notes.app-activity-ktx-1.9.3-43 C:\Users\welcome\.gradle\caches\8.9\transforms\c970497b166840095cf2eb125a65d71f\transformed\activity-ktx-1.9.3\res
+com.vr.notes.app-sqlite-framework-2.4.0-44 C:\Users\welcome\.gradle\caches\8.9\transforms\cb8b3c72ce11479dc6e641eb0b5edca8\transformed\sqlite-framework-2.4.0\res
+com.vr.notes.app-foundation-layout-release-45 C:\Users\welcome\.gradle\caches\8.9\transforms\d18a5dfca3b20c4e7d172fe9e0b36fca\transformed\foundation-layout-release\res
+com.vr.notes.app-graphics-path-1.0.1-46 C:\Users\welcome\.gradle\caches\8.9\transforms\db949f4f5de67babad3ade26082b62ee\transformed\graphics-path-1.0.1\res
+com.vr.notes.app-material-ripple-release-47 C:\Users\welcome\.gradle\caches\8.9\transforms\e12fb19424cbd2220eed5892dda51be3\transformed\material-ripple-release\res
+com.vr.notes.app-ui-util-release-48 C:\Users\welcome\.gradle\caches\8.9\transforms\e20f8a9771ac0b9a984b783d9de013c5\transformed\ui-util-release\res
+com.vr.notes.app-material3-release-49 C:\Users\welcome\.gradle\caches\8.9\transforms\e8ab445f5af32aaff9e6ab9cdff9023d\transformed\material3-release\res
+com.vr.notes.app-ui-tooling-data-release-50 C:\Users\welcome\.gradle\caches\8.9\transforms\f44ce6245a0324a201c944969f26d4c4\transformed\ui-tooling-data-release\res
+com.vr.notes.app-navigation-common-ktx-2.8.4-51 C:\Users\welcome\.gradle\caches\8.9\transforms\f4817b0f4d2fef12807907adc4bb9a8e\transformed\navigation-common-ktx-2.8.4\res
+com.vr.notes.app-navigation-common-2.8.4-52 C:\Users\welcome\.gradle\caches\8.9\transforms\fd22589063e4c4039642c9bb7909ad4f\transformed\navigation-common-2.8.4\res
+com.vr.notes.app-pngs-53 C:\Users\welcome\3D Objects\Android\Notes\app\build\generated\res\pngs\debug
+com.vr.notes.app-resValues-54 C:\Users\welcome\3D Objects\Android\Notes\app\build\generated\res\resValues\debug
+com.vr.notes.app-packageDebugResources-55 C:\Users\welcome\3D Objects\Android\Notes\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.vr.notes.app-packageDebugResources-56 C:\Users\welcome\3D Objects\Android\Notes\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.vr.notes.app-debug-57 C:\Users\welcome\3D Objects\Android\Notes\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.vr.notes.app-debug-58 C:\Users\welcome\3D Objects\Android\Notes\app\src\debug\res
+com.vr.notes.app-main-59 C:\Users\welcome\3D Objects\Android\Notes\app\src\main\res
