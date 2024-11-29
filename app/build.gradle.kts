@@ -2,7 +2,8 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
-    id("com.google.devtools.ksp") version "1.9.22-1.0.17"
+    alias(libs.plugins.ksp)
+//    alias(libs.plugins.hilt.dagger)
 }
 
 android {
@@ -51,11 +52,19 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.material.icons.extended)
     implementation(libs.androidx.navigation.compose)
 
+//    implementation(libs.androidx.ui.widgets)
+//    implementation(libs.androidx.material3.window.size)
+//    implementation(libs.androidx.material3.icons.outlined)
+
+//    implementation(libs.hilt.android)
+    implementation(libs.kotlinx.coroutines.android)
     implementation(libs.androidx.room.common)
     implementation(libs.androidx.room.ktx)
     ksp(libs.androidx.room.compiler)
+//    ksp(libs.hilt.android.compiler)
 
     testImplementation(libs.junit)
 

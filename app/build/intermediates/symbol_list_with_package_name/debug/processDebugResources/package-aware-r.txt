@@ -76,6 +76,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+drawable baseline_yard_24
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.vr.notes.app-mergeDebugResources-55:/values-v30/values-v30.xml",
+            "outputFile": "com.vr.notes.app-mergeDebugResources-56:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\e8ab445f5af32aaff9e6ab9cdff9023d\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\efd88dafed669c753e29a5c2cc931d52\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -12,6 +12,7 @@ import kotlinx.coroutines.flow.stateIn
 class HomeVM(
     noteRepo: NoteRepo
 ) : ViewModel() {
+
     val homeUiState: StateFlow<HomeUiState> = noteRepo
         .getAllNotes()
         .map { HomeUiState(it) }
@@ -20,7 +21,8 @@ class HomeVM(
             started = SharingStarted.WhileSubscribed(5_000),
             initialValue = HomeUiState()
         )
-    companion object{
+
+    companion object {
         private const val TIMEOUT_MILLIS = 5_000L
     }
 }

@@ -1,19 +1,18 @@
-package com.vr.notes.ui
+package com.vr.notes
 
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewmodel.CreationExtras
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
-import com.vr.notes.NoteApplication
 import com.vr.notes.viewModel.HomeVM
 
 object AppViewModelProvider {
-    val factory = viewModelFactory {
+    val Factory = viewModelFactory {
         initializer {
-            HomeVM(notesApp().container.noteRepo)
+            HomeVM(notesApplication().container.noteRepo)
         }
     }
 }
 
-fun CreationExtras.notesApp(): NoteApplication =
+fun CreationExtras.notesApplication(): NoteApplication =
     (this[ViewModelProvider.AndroidViewModelFactory.APPLICATION_KEY] as NoteApplication)
