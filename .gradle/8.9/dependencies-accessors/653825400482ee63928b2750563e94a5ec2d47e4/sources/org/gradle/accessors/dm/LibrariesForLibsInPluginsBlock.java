@@ -497,7 +497,7 @@ public class LibrariesForLibsInPluginsBlock extends AbstractExternalDependencyFa
         public Provider<String> getAgp() { return getVersion("agp"); }
 
         /**
-         * Version alias <b>composeBom</b> with value <b>2024.04.01</b>
+         * Version alias <b>composeBom</b> with value <b>2024.11.00</b>
          * <p>
          * If the version is a rich version and cannot be represented as a
          * single version string, an empty string is returned.

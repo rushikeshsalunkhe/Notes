@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.vr.notes.app-mergeDebugResources-45:/values-gl/values-gl.xml",
+            "outputFile": "com.vr.notes.app-mergeDebugResources-51:/values-gl/values-gl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\07d7fefd9280681e3b8f9da12ffc2944\\transformed\\foundation-release\\res\\values-gl\\values-gl.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,154",
-                        "endColumns": "98,100",
-                        "endOffsets": "149,250"
-                    },
-                    "to": {
-                        "startLines": "85,86",
-                        "startColumns": "4,4",
-                        "startOffsets": "8950,9049",
-                        "endColumns": "98,100",
-                        "endOffsets": "9044,9145"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\6f2cac9b71a896c089100197012511ad\\transformed\\ui-release\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\ed3948fc45e3ad83e63f5cc8e95a461b\\transformed\\ui-release\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\c2e638d0603e5a7ffce61b7b7e19211f\\transformed\\core-1.15.0\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\492acb12b6cdd1eb89025511098beac8\\transformed\\foundation-release\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,154",
+                        "endColumns": "98,100",
+                        "endOffsets": "149,250"
+                    },
+                    "to": {
+                        "startLines": "85,86",
+                        "startColumns": "4,4",
+                        "startOffsets": "8950,9049",
+                        "endColumns": "98,100",
+                        "endOffsets": "9044,9145"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\b4b228b3a2e90f2b4cddc9567aac156a\\transformed\\core-1.15.0\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\f1ddb6ccf7bc7d719fdec77a4df3f252\\transformed\\material3-release\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\64cf486535fd81628353b6fbba5b0518\\transformed\\material3-release\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
