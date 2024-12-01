@@ -5,8 +5,8 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.vr.notes.ui.HomeScreen
-import com.vr.notes.ui.NoteScreen
+import com.vr.notes.ui.screens.HomeScreen
+import com.vr.notes.ui.screens.NewNoteScreen
 
 @Composable
 fun AppNavHost(modifier: Modifier = Modifier, navController: NavHostController) {
@@ -16,7 +16,10 @@ fun AppNavHost(modifier: Modifier = Modifier, navController: NavHostController) 
         startDestination = Home.route
     ) {
         composable(Home.route) {
-            HomeScreen(modifier = Modifier)
+            HomeScreen(modifier = Modifier,navController = navController)
+        }
+        composable(NewNote.route) {
+            NewNoteScreen(modifier = Modifier)
         }
 //        composable(
 //            Note.routeWithArgs, Note.arguments, Note.deepLink

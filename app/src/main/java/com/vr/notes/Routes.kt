@@ -12,6 +12,10 @@ data object Home : Routes {
     override val route: String = "home"
 }
 
+data object NewNote : Routes{
+    override val route: String = "newNote"
+}
+
 data object Note : Routes {
     override val route: String = "note"
     const val NOTE_ID_ARG = "noteId"

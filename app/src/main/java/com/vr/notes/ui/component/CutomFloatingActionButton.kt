@@ -1,9 +1,7 @@
 package com.vr.notes.ui.component
 
 import androidx.compose.animation.AnimatedVisibility
-import androidx.compose.animation.expandIn
 import androidx.compose.animation.expandVertically
-import androidx.compose.animation.shrinkOut
 import androidx.compose.animation.shrinkVertically
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -35,18 +33,20 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import androidx.navigation.NavController
 import com.vr.notes.model.Fab
 import com.vr.notes.ui.theme.NotesTheme
 
 @Composable
 fun CustomFAB(
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
+    navController: NavController? = null
 ) {
     val fabs = listOf<Fab>(
-        Fab("Image", Icons.Rounded.Image),
-        Fab("Drawing", Icons.Rounded.Brush),
-        Fab("List", Icons.Rounded.CheckBox),
-        Fab("Text", Icons.Rounded.TextFields),
+        Fab("Image", Icons.Rounded.Image, "newNote"),
+        Fab("Drawing", Icons.Rounded.Brush, ""),
+        Fab("List", Icons.Rounded.CheckBox, ""),
+        Fab("Text", Icons.Rounded.TextFields, ""),
     )
     var expanded by remember { mutableStateOf(false) }
     Column(
@@ -64,7 +64,8 @@ fun CustomFAB(
                     OptionFAB(
                         modifier = Modifier.padding(bottom = 10.dp),
                         icon = fab.icon,
-                        text = fab.text
+                        text = fab.text,
+                        onClick = { navController?.navigate(fab.route) }
                     )
                 }
             }
