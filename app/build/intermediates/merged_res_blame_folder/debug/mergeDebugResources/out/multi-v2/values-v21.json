@@ -4,7 +4,7 @@
             "outputFile": "com.vr.notes.app-mergeDebugResources-56:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\d7a283628c2cbdeab0ff3937ac420ebe\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\welcome\\.gradle\\caches\\8.9\\transforms\\1b1a71869801fe449cddc406350dd265\\transformed\\core-1.15.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

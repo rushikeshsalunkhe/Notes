@@ -11,12 +11,10 @@ import com.vr.notes.ui.screens.NewNoteScreen
 @Composable
 fun AppNavHost(modifier: Modifier = Modifier, navController: NavHostController) {
     NavHost(
-        modifier = modifier,
-        navController = navController,
-        startDestination = Home.route
+        modifier = modifier, navController = navController, startDestination = Home.route
     ) {
         composable(Home.route) {
-            HomeScreen(modifier = Modifier,navController = navController)
+            HomeScreen(modifier = Modifier, navController = navController)
         }
         composable(NewNote.route) {
             NewNoteScreen(modifier = Modifier)
@@ -28,3 +26,9 @@ fun AppNavHost(modifier: Modifier = Modifier, navController: NavHostController) 
 //        }
     }
 }
+
+//fun NavGraphBuilder.notesGraph(navController: NavController) {
+//    navigation<Home>(startDestination = Home) {
+//        composable<Home> {}
+//    }
+//}
