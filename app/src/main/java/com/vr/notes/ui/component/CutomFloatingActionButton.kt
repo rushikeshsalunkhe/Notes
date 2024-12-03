@@ -34,19 +34,35 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
+import androidx.navigation.compose.currentBackStackEntryAsState
+import androidx.navigation.compose.rememberNavController
 import com.vr.notes.model.Fab
 import com.vr.notes.ui.theme.NotesTheme
 
 @Composable
 fun CustomFAB(
     modifier: Modifier = Modifier,
-    navController: NavController? = null
+    navController: NavController
 ) {
+    val backStackEntry by navController.currentBackStackEntryAsState()
+    val currentDestination = backStackEntry?.destination
+    val currentRoute = currentDestination?.route
+    when (currentRoute) {
+        "home" -> {
+            NotesFAB(modifier = modifier, navController = navController)
+        }
+
+        else -> {}
+    }
+}
+
+@Composable
+fun NotesFAB(modifier: Modifier = Modifier, navController: NavController) {
     val fabs = listOf<Fab>(
-        Fab("Image", Icons.Rounded.Image, "newNote"),
-        Fab("Drawing", Icons.Rounded.Brush, ""),
-        Fab("List", Icons.Rounded.CheckBox, ""),
-        Fab("Text", Icons.Rounded.TextFields, ""),
+        Fab("Image", Icons.Rounded.Image, "new_note"),
+        Fab("Drawing", Icons.Rounded.Brush, "new_note"),
+        Fab("List", Icons.Rounded.CheckBox, "new_note"),
+        Fab("Text", Icons.Rounded.TextFields, "new_note"),
     )
     var expanded by remember { mutableStateOf(false) }
     Column(
@@ -65,7 +81,7 @@ fun CustomFAB(
                         modifier = Modifier.padding(bottom = 10.dp),
                         icon = fab.icon,
                         text = fab.text,
-                        onClick = { navController?.navigate(fab.route) }
+                        onClick = { navController.navigate(fab.route) }
                     )
                 }
             }
@@ -108,7 +124,7 @@ fun OptionFAB(
 @Composable
 fun CustomFABPreview() {
     NotesTheme {
-        Scaffold(floatingActionButton = { CustomFAB() }) {
+        Scaffold(floatingActionButton = { CustomFAB(navController = rememberNavController()) }) {
             Box(modifier = Modifier.padding(it)) {}
         }
     }

@@ -3,10 +3,11 @@ package com.vr.notes.ui.screens
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.aspectRatio
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.staggeredgrid.LazyVerticalStaggeredGrid
 import androidx.compose.foundation.lazy.staggeredgrid.StaggeredGridCells
-import androidx.compose.material3.Card
 import androidx.compose.material3.OutlinedCard
+import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
@@ -26,7 +27,10 @@ fun HomeScreen(
         columns = StaggeredGridCells.Fixed(2),
         verticalItemSpacing = 10.dp,
         horizontalArrangement = Arrangement.spacedBy(10.dp),
-        contentPadding = PaddingValues(10.dp)
+        contentPadding = PaddingValues(
+            top = PaddingValues().calculateTopPadding() + 10.dp,
+            start = 10.dp, end = 10.dp
+        )
     ) {
 //        items(homeUiState.noteList) {
 //            NoteCard(it)
@@ -71,5 +75,7 @@ fun NoteCard(note: Int) {
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun HomeScreenPreview() {
-    HomeScreen()
+    Scaffold {
+        HomeScreen(modifier = Modifier.padding(it))
+    }
 }
