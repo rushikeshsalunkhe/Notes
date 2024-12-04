@@ -1,7 +1,9 @@
 package com.vr.notes
 
-import androidx.compose.material3.BottomSheetScaffoldState
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.SheetState
+import androidx.compose.material3.rememberModalBottomSheetState
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
@@ -15,7 +17,6 @@ import com.vr.notes.ui.screens.NewNoteScreen
 fun AppNavHost(
     modifier: Modifier = Modifier,
     navController: NavHostController,
-//    scaffoldState: BottomSheetScaffoldState
 ) {
     NavHost(
         modifier = modifier, navController = navController, startDestination = Home.route
@@ -25,8 +26,7 @@ fun AppNavHost(
         }
         composable(NewNote.route) {
             NewNoteScreen(
-                modifier = Modifier,
-//                scaffoldState = scaffoldState
+                modifier = Modifier.fillMaxSize(),
             )
         }
 //        composable(
